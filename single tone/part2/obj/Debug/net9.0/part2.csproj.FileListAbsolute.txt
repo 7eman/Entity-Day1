@@ -1,0 +1,14 @@
+F:\LINQ\ENTITY1\part2\part2\bin\Debug\net9.0\part2.exe
+F:\LINQ\ENTITY1\part2\part2\bin\Debug\net9.0\part2.deps.json
+F:\LINQ\ENTITY1\part2\part2\bin\Debug\net9.0\part2.runtimeconfig.json
+F:\LINQ\ENTITY1\part2\part2\bin\Debug\net9.0\part2.dll
+F:\LINQ\ENTITY1\part2\part2\bin\Debug\net9.0\part2.pdb
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.GeneratedMSBuildEditorConfig.editorconfig
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.AssemblyInfoInputs.cache
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.AssemblyInfo.cs
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.csproj.CoreCompileInputs.cache
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.dll
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\refint\part2.dll
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.pdb
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\part2.genruntimeconfig.cache
+F:\LINQ\ENTITY1\part2\part2\obj\Debug\net9.0\ref\part2.dll
